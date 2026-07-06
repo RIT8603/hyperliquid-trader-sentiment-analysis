@@ -1,5 +1,9 @@
 # Trader Performance vs Bitcoin Market Sentiment Analysis
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## 📌 Project Overview
 This project investigates how **Bitcoin market sentiment** (Fear & Greed Index) relates to **trader performance** on **Hyperliquid**. Individual trade-level execution data is merged with daily sentiment classifications to uncover patterns in profitability, risk-taking, trading volume, and trader concentration — with the goal of informing smarter, sentiment-aware trading strategies.
 
@@ -120,8 +124,6 @@ Combining Hyperliquid trade-level data with the Bitcoin Fear & Greed Index revea
 └── requirements.txt                # Python dependencies
 ```
 
-> **Housekeeping tip:** the working folder currently has two notebook files (`notebook.ipynb` and `dataset_Project (1).ipynb`). Keep only the final version before submission and delete/rename the duplicate — hiring reviewers often check for a clean, single-source-of-truth repo.
-
 ---
 
 ## 🚀 How to Run
@@ -137,8 +139,11 @@ Combining Hyperliquid trade-level data with the Bitcoin Fear & Greed Index revea
 
 ## 👤 Author
 **Ritesh**
-B.Tech CSE, Mangalmay Institute of Management & Technology (AKTU)
-GitHub: [RIT8603](https://github.com/RIT8603) | LinkedIn: [ritesh-nxt](https://linkedin.com/in/ritesh-nxt) | Portfolio: [riteshnxt.dev](https://riteshnxt.dev)
+
+- B.Tech CSE, Mangalmay Institute of Management & Technology (AKTU)
+- GitHub: https://github.com/RIT8603
+- LinkedIn: https://linkedin.com/in/ritesh-nxt
+- Portfolio: https://riteshnxt.dev
 
 ---
 
